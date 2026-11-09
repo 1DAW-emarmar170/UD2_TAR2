@@ -1,1 +1,1 @@
-Este es mi primer cambio utilizando Git
+Este cambio se ha realizado directamente desde GitHub.
